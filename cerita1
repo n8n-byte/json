@@ -1,0 +1,17 @@
+[
+  {
+    "part": 1,
+    "duration": "5s",
+    "scene": "Hutan pagi cerah, burung berkicau.",
+    "characters": "Kelinci Putih",
+    "narration": "Pada suatu pagi, Kelinci Putih keluar dari rumah kecilnya."
+  },
+  {
+    "part": 2,
+    "duration": "5s",
+    "scene": "Kelinci berlari di padang rumput hijau.",
+    "characters": "Kelinci Putih",
+    "narration": "Ia berlari gembira menyambut matahari."
+  }
+]
+
